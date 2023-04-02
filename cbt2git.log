@@ -1,0 +1,9 @@
+2023-04-03 00:46:26.624544 - Initialized conversion of CBT502
+2023-04-03 00:46:26.725402 - Received CBT.V504.FILE502.PDS from FILE502.XMI 
+2023-04-03 00:46:26.728427 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE502.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:46:26.729782 - Found $$NOTE.txt (text/plain) in CBT.V504.FILE502.PDS, moved to PDS/$$NOTE
+2023-04-03 00:46:26.731038 - Found @FILE502.txt (text/plain) in CBT.V504.FILE502.PDS, moved to PDS/@FILE502
+2023-04-03 00:46:26.732230 - Found MAPS.txt (text/plain) in CBT.V504.FILE502.PDS, moved to PDS/MAPS
+2023-04-03 00:46:26.733531 - Found PARTSRC.txt (text/plain) in CBT.V504.FILE502.PDS, moved to PDS/PARTSRC
+2023-04-03 00:46:26.734665 - Found SOURCE38.txt (text/plain) in CBT.V504.FILE502.PDS, moved to PDS/SOURCE38
+2023-04-03 00:46:26.735959 - Found ZAPTOZAP.txt (text/plain) in CBT.V504.FILE502.PDS, moved to PDS/ZAPTOZAP
